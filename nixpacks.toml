@@ -1,0 +1,6 @@
+[build]
+providers = ["node"]
+
+[variables]
+NODE_VERSION = "16"
+PHP_VERSION = ""
