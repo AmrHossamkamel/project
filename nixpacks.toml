@@ -1,6 +1,6 @@
 [build]
-providers = ["node"]
+providers = ["php", "node"]
 
 [variables]
-NODE_VERSION = "16"
-PHP_VERSION = ""
+NODE_VERSION = "20"
+PHP_VERSION = "8.2"
